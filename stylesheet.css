@@ -4,6 +4,17 @@
     color: aliceblue;
 }
 
+.hero {
+    padding: 2px 1em;
+    margin: 10px 5em;
+}
+
 .header {
     display: flex;
+    justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
 }
